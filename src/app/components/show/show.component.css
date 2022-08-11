@@ -1,0 +1,16 @@
+.btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
+    background-color: #0f4d19 !important;
+}
+.true {
+    opacity: 1;
+    color: #fff;
+    text-decoration: line-through 3px black;
+  }
+  .false {
+    text-decoration: null;
+  }
+.task {
+    font-weight: bolder;
+    font-size: 25px;
+  }
+ 
